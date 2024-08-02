@@ -7,25 +7,25 @@ function BrandList() {
       id: 1,
       img: "/node.png",
       title: "MERN Stack",
-      disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit Reprehenderit earum,repudiandae consectetur"
+      disc : "A full-stack development toolkit using ReactJS, ExpressJS, NodeJS & MongoDB. I built rebust scalabal and userfriendly web application"
     },
     {
       id: 2,
       img: "/android-logo.png",
       title: "Mobile App",
-      disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit Reprehenderit earum,repudiandae consectetur"
+      disc : "Building seamless mobile experiences with Javascript & React. I create fast intuitive and cross-plateform mobile apps using react-native."
     },
     {
       id: 3,
       img: "/devops.png",
       title: "DevOps",
-      disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit Reprehenderit earum,repudiandae consectetur"
+      disc : "Implementing CI/CD & automating, optimizing and accelerating delivery. From code to production,efficiently. I bridge the gap between code and production."
     },
     {
       id: 4,
       img: "/aws.png",
       title: "AWS",
-      disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit Reprehenderit earum,repudiandae consectetur"
+      disc : "AWS is scalable secure and efficient cloud solutions. From infrastructure to application. I design, deploy and manage cloud infrastructure and application on Amazon Web Services[AWS]."
     },
   ];
 
